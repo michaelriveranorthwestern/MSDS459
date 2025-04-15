@@ -14,3 +14,5 @@ The authors describe three main ways that computers can be taught to find import
 
 ### Common Problems in Entity Recognition
 Even the best systems sometimes face difficulties. A big challenge is that some words can mean different things in different contexts. For instance, Apple might refer to a fruit or a technology company. Another issue is that models trained on one kind of writing, like news articles, may not perform well on other types, like social media posts or scientific papers. It’s also harder to recognize names in languages other than English or in documents that contain a mix of multiple languages. These challenges matter because knowledge graphs often pull information from a wide variety of sources around the world.
+
+[⬅ Back to Main Overview](README.md)
