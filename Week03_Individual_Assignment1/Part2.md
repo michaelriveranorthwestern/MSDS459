@@ -14,3 +14,5 @@ Chapter 5 talks about how to get useful facts from websites without having to do
 
 ### Using Website Structure to Help Build the Graph
 Both chapters show how the layout and design of websites—like menus, links, and tables—can help systems understand how different pieces of information are connected. This structure makes it easier to scale up the process of building knowledge graphs. The authors mention tools that can automatically learn how to extract data by comparing similar pages, which speeds things up and improves accuracy.
+
+[⬅ Back to Main Overview](README.md)
