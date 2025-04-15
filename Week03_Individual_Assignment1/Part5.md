@@ -14,3 +14,5 @@ The authors explain that large language models (like the ones that power chatbot
 
 ### Choosing Between Rules and Learning Models
 The chapter compares two ways to break down and understand text. One way uses simple rules, like patterns to find dates or names. This approach is fast and easy to understand, but not very flexible. The other way uses machine learning, which can handle different types of language and adapt better, but it's slower and harder to explain. In practice, a combination of both methods often works best. For example, using a rule to find a phone number and a learning model to understand a sentence.
+
+[⬅ Back to Main Overview](README.md)
