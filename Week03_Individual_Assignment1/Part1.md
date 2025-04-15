@@ -14,3 +14,5 @@ Knowledge graphs store facts in sets of three parts: a starting point, a connect
 
 ### Why Meaning and Structure Matter
 To make sure the information in a knowledge graph is meaningful and organized, developers use tools that define the kinds of things in the graph and how they relate to each other. These tools act like a blueprint or a guidebook. For example, they can define that a person can have a birthplace, or that a book has an author. This helps computers understand the structure of the data and even make smart guesses or answer questions based on it. Without these tools, the graph would just be a bunch of random facts without clear meaning.
+
+[⬅ Back to Main Overview](README.md)
