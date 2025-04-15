@@ -14,3 +14,5 @@ The chapter explains that NLP has two big parts. One is understanding what peopl
 
 ### NLP Can Be Helpful or Harmful, So Ethics Matter
 The authors remind us that while NLP can be very useful, like in virtual therapy or educational tools, it also comes with risks. It can be used to mislead people, invade privacy, or repeat harmful biases if not carefully designed. This is why it’s important for people who build these systems to think about how their work affects others and to make sure it’s used in fair and responsible ways.
+
+[⬅ Back to Main Overview](README.md)
