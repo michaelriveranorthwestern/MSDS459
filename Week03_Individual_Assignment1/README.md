@@ -1,6 +1,4 @@
-# Define the complete Markdown content including the references section
-readme_content = """# Repository Overview
-
+# Week 3 Individual Assignment - Repository Overview
 This repository contains a five-part set of summaries and key ideas drawn from assigned readings on Knowledge Graphs and Natural Language Processing (NLP), prepared as part of a foundational course in AI and data systems.
 
 ## Contents
@@ -41,10 +39,3 @@ W3C. (2014). RDF 1.1 Primer. Retrieved from https://www.w3.org/TR/rdf11-primer/
 
 Yadav, V., and Bethard, S. (2018). A survey on recent advances in named entity recognition from deep learning models. *Proceedings of COLING*, 2145–2158.
 """
-
-# Save to README.md file
-readme_path = Path("/mnt/data/README.md")
-readme_path.write_text(readme_content)
-
-# Return the file name
-readme_path.name
