@@ -9,7 +9,7 @@ This repository contains a five-part set of summaries and key ideas drawn from a
 
 - **Part 3:** Summary of Chapter 4, focusing on Named Entity Recognition as a foundational step in building knowledge graphs, including rule-based, statistical, and neural methods for identifying entities.
 
-- **Part 4:** Summary of Chapter 1 from *Natural Language Processing in Action, which gives a high-level introduction to NLP, covering language pipelines, understanding vs. generation, and the ethical implications of NLP applications.
+- **Part 4:** Summary of Chapter 1 from *Natural Language Processing in Action*, which gives a high-level introduction to NLP, covering language pipelines, understanding vs. generation, and the ethical implications of NLP applications.
 
 - **Part 5:** Summary of Chapter 11 from the same NLP textbook, exploring how NLP methods support information extraction and knowledge graph construction, including grounding language models, structured fact generation, and comparing rule-based vs. machine learning approaches.
 
