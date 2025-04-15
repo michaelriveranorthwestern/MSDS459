@@ -12,7 +12,7 @@ This repository contains a five-part set of summaries and key ideas drawn from a
 - [**Part 4**](Part4.md): Summary of Chapter 1 from *Natural Language Processing in Action*, which gives a high-level introduction to NLP, covering language pipelines, understanding vs. generation, and the ethical implications of NLP applications.
 
 - [**Part 5**](Part5.md): Summary of Chapter 11 from the same NLP textbook, exploring how NLP methods support information extraction and knowledge graph construction, including grounding language models, structured fact generation, and comparing rule-based vs. machine learning approaches.
-- 
+  
 ## References
 
 The following references are cited across the five parts and include both textbooks and additional online resources used in the readings and summaries:
