@@ -1,5 +1,5 @@
 # Week 3 Individual Assignment - Repository Overview
-This repository contains a five-part set of summaries and key ideas drawn from assigned readings on Knowledge Graphs and Natural Language Processing (NLP), prepared as part of a foundational course in AI and data systems.
+This repository contains a five-part set of summaries and key ideas drawn from assigned readings on Knowledge Graphs and Natural Language Processing, prepared as part of a foundational course in AI and data systems.
 
 ## Contents
 
@@ -7,7 +7,7 @@ This repository contains a five-part set of summaries and key ideas drawn from a
   
 - **Part 2:** Summary of Chapters 3 and 5 from the same textbook. Discusses how to identify relevant domains for a knowledge graph and how to extract information from web sources for graph construction.
 
-- **Part 3:** Summary of Chapter 4, focusing on Named Entity Recognition (NER) as a foundational step in building knowledge graphs, including rule-based, statistical, and neural methods for identifying entities.
+- **Part 3:** Summary of Chapter 4, focusing on Named Entity Recognition as a foundational step in building knowledge graphs, including rule-based, statistical, and neural methods for identifying entities.
 
 - **Part 4:** Summary of Chapter 1 from *Natural Language Processing in Action (2nd ed.)*, which gives a high-level introduction to NLP, covering language pipelines, understanding vs. generation, and the ethical implications of NLP applications.
 
@@ -38,4 +38,3 @@ Sarawagi, S. (2008). Information Extraction. *Foundations and Trends in Database
 W3C. (2014). RDF 1.1 Primer. Retrieved from https://www.w3.org/TR/rdf11-primer/
 
 Yadav, V., and Bethard, S. (2018). A survey on recent advances in named entity recognition from deep learning models. *Proceedings of COLING*, 2145–2158.
-"""
