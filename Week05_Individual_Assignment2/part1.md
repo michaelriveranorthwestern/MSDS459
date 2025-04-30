@@ -1,4 +1,4 @@
-## Part 1 – Knowledge Graphs Textbook Summary (20 points)
+## Part 1 – Knowledge Graphs Textbook Summary
 
 This week’s reading focuses on Relation Extraction (RE), which is an important part of building Knowledge Graphs (KGs). RE is about finding and identifying the relationships between different entities in text, such as people, places, or organizations. For example, in the sentence “Hardy is employed by Calmet Corporation,” RE helps us understand that there is a work relationship between Hardy and the company. While Named Entity Recognition (NER) only finds the names of people or organizations, RE adds meaning by showing how those names are connected. RE can be done at the global level (anywhere in a document) or at the mention level (in one sentence). Many RE systems use structured guidelines, such as those from the Automatic Content Extraction (ACE) program, which defines common types of relationships.
 
