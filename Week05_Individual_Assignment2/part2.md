@@ -15,4 +15,4 @@ In conclusion, Gel offers strong capabilities for building knowledge bases, espe
 Gel. “Home.” Gel. Accessed April 29, 2025. https://www.geldata.com/  
 Gel. “EdgeDB 3.0.” *Gel Blog*, July 2023. https://www.geldata.com/blog/edgedb-3-0
 
-Back to README](README.md)
+[Back to README](README.md)
