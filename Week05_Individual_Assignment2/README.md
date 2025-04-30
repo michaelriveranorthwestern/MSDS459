@@ -1,6 +1,6 @@
 # Week 5 Individual Assignment - Repository Overview
 
-This repository contains a five-part set of summaries and key ideas focused on evaluating modern database technologies and their use in building knowledge bases. 
+This repository contains a five-part series of analytical summaries focused on evaluating modern database technologies for knowledge base development. The first part examines the Week 4 assigned readings from the course textbook, while the remaining parts address assigned topics on contemporary database platforms and tools.
 
 ## Contents
 
