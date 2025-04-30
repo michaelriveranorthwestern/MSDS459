@@ -1,5 +1,4 @@
-## Part 4 – ParadeDB Evaluation (20 points)
-
+## Part 4 – ParadeDB Evaluation 
 ParadeDB is a PostgreSQL extension that adds advanced search and analytics features. It offers performance similar to Elasticsearch but works fully inside PostgreSQL. One of its key features is full-text search using the BM25 algorithm. The pg_search tool improves search quality and speed, especially on large datasets.
 
 ParadeDB also supports hybrid search, combining full-text search with vector similarity using pgvector. This enables semantic search, which is helpful for AI-powered knowledge bases. It also includes real-time indexing so changes to data are immediately searchable.
