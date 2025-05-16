@@ -1,11 +1,11 @@
 # Part 5: Using Sentiment Analysis
 
-Sentiment analysis checks text—like news articles, social media posts, or company reviews—to find out if people feel positive, negative, or neutral. In investing, it helps measure how people feel about a company or market. It’s fast and useful for early signals, but it can get confused by sarcasm or slang and may need cleaning. In the term project, students could collect and label tweets or headlines, then connect those to stock movements. They could use a knowledge graph to link public mood with trading decisions or price trends.
+Sentiment analysis checks text—like news articles, social media posts, or company reviews—to find out if people feel positive, negative, or neutral. In investing, it helps measure how people feel about a company or market. It’s fast and useful for early signals, but it can get confused by sarcasm or slang and may need cleaning. In the context of this project, sentiment analysis can be used to collect and label tweets or headlines, then connect those to stock movements. A knowledge graph can help link public mood with trading decisions or price trends.
 
 ## Key Takeaways
 1. Sentiment analysis checks if opinions in text are positive, negative, or neutral.
 2. It offers fast insight from unstructured sources like news or social media.
-3. Students can link opinions to price movement in their projects.
+3. Opinions can be linked to price movement using knowledge graph connections.
 
 ## References
 Chen, Hsinchun, et al. “Business Intelligence and Analytics: From Big Data to Big Impact.” *MIS Quarterly* 36, no. 4 (2012): 1165–1188. https://doi.org/10.2307/41703503.  
